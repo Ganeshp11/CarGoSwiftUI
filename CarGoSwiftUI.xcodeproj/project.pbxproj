@@ -11,6 +11,23 @@
 		923873702C5BA939005FF5C1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9238736F2C5BA939005FF5C1 /* ContentView.swift */; };
 		923873722C5BA93A005FF5C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 923873712C5BA93A005FF5C1 /* Assets.xcassets */; };
 		923873752C5BA93A005FF5C1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 923873742C5BA93A005FF5C1 /* Preview Assets.xcassets */; };
+		923873832C5BA9C6005FF5C1 /* CarBrandModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 923873822C5BA9C6005FF5C1 /* CarBrandModel.swift */; };
+		923873892C5BAA37005FF5C1 /* LaunchScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 923873882C5BAA37005FF5C1 /* LaunchScreenView.swift */; };
+		9238738B2C5BAA4F005FF5C1 /* SearchBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9238738A2C5BAA4F005FF5C1 /* SearchBarView.swift */; };
+		9238738D2C5BAA5D005FF5C1 /* CustomCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9238738C2C5BAA5D005FF5C1 /* CustomCellView.swift */; };
+		9238738F2C5BAA6F005FF5C1 /* CarModelTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9238738E2C5BAA6F005FF5C1 /* CarModelTableView.swift */; };
+		923873912C5BAABD005FF5C1 /* BrandImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 923873902C5BAABD005FF5C1 /* BrandImageView.swift */; };
+		923873942C5BAAE8005FF5C1 /* StatisticsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 923873932C5BAAE8005FF5C1 /* StatisticsView.swift */; };
+		923873962C5BAAF3005FF5C1 /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 923873952C5BAAF3005FF5C1 /* ButtonView.swift */; };
+		923873982C5BAB08005FF5C1 /* StatisticsSheetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 923873972C5BAB08005FF5C1 /* StatisticsSheetView.swift */; };
+		9238739A2C5BAB40005FF5C1 /* CarBrandViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 923873992C5BAB40005FF5C1 /* CarBrandViewModel.swift */; };
+		9238739D2C5BAB75005FF5C1 /* FileReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9238739C2C5BAB75005FF5C1 /* FileReader.swift */; };
+		9238739F2C5BAB9B005FF5C1 /* CarBrands.json in Resources */ = {isa = PBXBuildFile; fileRef = 9238739E2C5BAB9B005FF5C1 /* CarBrands.json */; };
+		923873A32C5BABE3005FF5C1 /* FileReaderError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 923873A22C5BABE3005FF5C1 /* FileReaderError.swift */; };
+		923873A52C5BABFE005FF5C1 /* StringConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 923873A42C5BABFE005FF5C1 /* StringConstants.swift */; };
+		923873A72C5BAC2D005FF5C1 /* SizeConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 923873A62C5BAC2D005FF5C1 /* SizeConstants.swift */; };
+		923873AA2C5BAC4F005FF5C1 /* FontSizeClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 923873A92C5BAC4F005FF5C1 /* FontSizeClass.swift */; };
+		923873AC2C5BAC6F005FF5C1 /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 923873AB2C5BAC6F005FF5C1 /* ColorExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +36,23 @@
 		9238736F2C5BA939005FF5C1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		923873712C5BA93A005FF5C1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		923873742C5BA93A005FF5C1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		923873822C5BA9C6005FF5C1 /* CarBrandModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarBrandModel.swift; sourceTree = "<group>"; };
+		923873882C5BAA37005FF5C1 /* LaunchScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaunchScreenView.swift; sourceTree = "<group>"; };
+		9238738A2C5BAA4F005FF5C1 /* SearchBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBarView.swift; sourceTree = "<group>"; };
+		9238738C2C5BAA5D005FF5C1 /* CustomCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCellView.swift; sourceTree = "<group>"; };
+		9238738E2C5BAA6F005FF5C1 /* CarModelTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarModelTableView.swift; sourceTree = "<group>"; };
+		923873902C5BAABD005FF5C1 /* BrandImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrandImageView.swift; sourceTree = "<group>"; };
+		923873932C5BAAE8005FF5C1 /* StatisticsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatisticsView.swift; sourceTree = "<group>"; };
+		923873952C5BAAF3005FF5C1 /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
+		923873972C5BAB08005FF5C1 /* StatisticsSheetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatisticsSheetView.swift; sourceTree = "<group>"; };
+		923873992C5BAB40005FF5C1 /* CarBrandViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarBrandViewModel.swift; sourceTree = "<group>"; };
+		9238739C2C5BAB75005FF5C1 /* FileReader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileReader.swift; sourceTree = "<group>"; };
+		9238739E2C5BAB9B005FF5C1 /* CarBrands.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = CarBrands.json; sourceTree = "<group>"; };
+		923873A22C5BABE3005FF5C1 /* FileReaderError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileReaderError.swift; sourceTree = "<group>"; };
+		923873A42C5BABFE005FF5C1 /* StringConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringConstants.swift; sourceTree = "<group>"; };
+		923873A62C5BAC2D005FF5C1 /* SizeConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SizeConstants.swift; sourceTree = "<group>"; };
+		923873A92C5BAC4F005FF5C1 /* FontSizeClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontSizeClass.swift; sourceTree = "<group>"; };
+		923873AB2C5BAC6F005FF5C1 /* ColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +85,10 @@
 		9238736C2C5BA939005FF5C1 /* CarGoSwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				9238737B2C5BA948005FF5C1 /* VehicleListing */,
+				9238737C2C5BA955005FF5C1 /* Resources */,
+				9238737D2C5BA95F005FF5C1 /* Utilities */,
 				9238736D2C5BA939005FF5C1 /* CarGoSwiftUIApp.swift */,
-				9238736F2C5BA939005FF5C1 /* ContentView.swift */,
 				923873712C5BA93A005FF5C1 /* Assets.xcassets */,
 				923873732C5BA93A005FF5C1 /* Preview Content */,
 			);
@@ -65,6 +101,133 @@
 				923873742C5BA93A005FF5C1 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		9238737B2C5BA948005FF5C1 /* VehicleListing */ = {
+			isa = PBXGroup;
+			children = (
+				9238737F2C5BA990005FF5C1 /* Model */,
+				923873802C5BA997005FF5C1 /* View */,
+				923873812C5BA99C005FF5C1 /* ViewModel */,
+			);
+			path = VehicleListing;
+			sourceTree = "<group>";
+		};
+		9238737C2C5BA955005FF5C1 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				9238739B2C5BAB5D005FF5C1 /* Readers */,
+				9238739E2C5BAB9B005FF5C1 /* CarBrands.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		9238737D2C5BA95F005FF5C1 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				923873A02C5BABBF005FF5C1 /* Constants */,
+				923873A12C5BABC9005FF5C1 /* Extensions */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		9238737F2C5BA990005FF5C1 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				923873822C5BA9C6005FF5C1 /* CarBrandModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		923873802C5BA997005FF5C1 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				923873842C5BA9E4005FF5C1 /* LaunchScreen */,
+				923873852C5BA9F6005FF5C1 /* CarModelList */,
+				923873862C5BAA04005FF5C1 /* BrandList */,
+				923873872C5BAA0C005FF5C1 /* BottomSheet */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		923873812C5BA99C005FF5C1 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				923873992C5BAB40005FF5C1 /* CarBrandViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		923873842C5BA9E4005FF5C1 /* LaunchScreen */ = {
+			isa = PBXGroup;
+			children = (
+				923873882C5BAA37005FF5C1 /* LaunchScreenView.swift */,
+			);
+			path = LaunchScreen;
+			sourceTree = "<group>";
+		};
+		923873852C5BA9F6005FF5C1 /* CarModelList */ = {
+			isa = PBXGroup;
+			children = (
+				9238738A2C5BAA4F005FF5C1 /* SearchBarView.swift */,
+				9238738C2C5BAA5D005FF5C1 /* CustomCellView.swift */,
+				9238738E2C5BAA6F005FF5C1 /* CarModelTableView.swift */,
+				9238736F2C5BA939005FF5C1 /* ContentView.swift */,
+			);
+			path = CarModelList;
+			sourceTree = "<group>";
+		};
+		923873862C5BAA04005FF5C1 /* BrandList */ = {
+			isa = PBXGroup;
+			children = (
+				923873902C5BAABD005FF5C1 /* BrandImageView.swift */,
+			);
+			path = BrandList;
+			sourceTree = "<group>";
+		};
+		923873872C5BAA0C005FF5C1 /* BottomSheet */ = {
+			isa = PBXGroup;
+			children = (
+				923873922C5BAAD4005FF5C1 /* StatisticView */,
+				923873972C5BAB08005FF5C1 /* StatisticsSheetView.swift */,
+			);
+			path = BottomSheet;
+			sourceTree = "<group>";
+		};
+		923873922C5BAAD4005FF5C1 /* StatisticView */ = {
+			isa = PBXGroup;
+			children = (
+				923873932C5BAAE8005FF5C1 /* StatisticsView.swift */,
+				923873952C5BAAF3005FF5C1 /* ButtonView.swift */,
+			);
+			path = StatisticView;
+			sourceTree = "<group>";
+		};
+		9238739B2C5BAB5D005FF5C1 /* Readers */ = {
+			isa = PBXGroup;
+			children = (
+				9238739C2C5BAB75005FF5C1 /* FileReader.swift */,
+			);
+			path = Readers;
+			sourceTree = "<group>";
+		};
+		923873A02C5BABBF005FF5C1 /* Constants */ = {
+			isa = PBXGroup;
+			children = (
+				923873A22C5BABE3005FF5C1 /* FileReaderError.swift */,
+				923873A42C5BABFE005FF5C1 /* StringConstants.swift */,
+				923873A62C5BAC2D005FF5C1 /* SizeConstants.swift */,
+				923873A92C5BAC4F005FF5C1 /* FontSizeClass.swift */,
+			);
+			path = Constants;
+			sourceTree = "<group>";
+		};
+		923873A12C5BABC9005FF5C1 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				923873AB2C5BAC6F005FF5C1 /* ColorExtension.swift */,
+			);
+			path = Extensions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,6 +290,7 @@
 			files = (
 				923873752C5BA93A005FF5C1 /* Preview Assets.xcassets in Resources */,
 				923873722C5BA93A005FF5C1 /* Assets.xcassets in Resources */,
+				9238739F2C5BAB9B005FF5C1 /* CarBrands.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +301,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9238738B2C5BAA4F005FF5C1 /* SearchBarView.swift in Sources */,
+				9238738D2C5BAA5D005FF5C1 /* CustomCellView.swift in Sources */,
+				923873962C5BAAF3005FF5C1 /* ButtonView.swift in Sources */,
+				923873AC2C5BAC6F005FF5C1 /* ColorExtension.swift in Sources */,
+				9238739D2C5BAB75005FF5C1 /* FileReader.swift in Sources */,
+				9238739A2C5BAB40005FF5C1 /* CarBrandViewModel.swift in Sources */,
+				923873832C5BA9C6005FF5C1 /* CarBrandModel.swift in Sources */,
+				923873A72C5BAC2D005FF5C1 /* SizeConstants.swift in Sources */,
 				923873702C5BA939005FF5C1 /* ContentView.swift in Sources */,
+				923873942C5BAAE8005FF5C1 /* StatisticsView.swift in Sources */,
+				923873A52C5BABFE005FF5C1 /* StringConstants.swift in Sources */,
+				923873912C5BAABD005FF5C1 /* BrandImageView.swift in Sources */,
+				9238738F2C5BAA6F005FF5C1 /* CarModelTableView.swift in Sources */,
 				9238736E2C5BA939005FF5C1 /* CarGoSwiftUIApp.swift in Sources */,
+				923873AA2C5BAC4F005FF5C1 /* FontSizeClass.swift in Sources */,
+				923873A32C5BABE3005FF5C1 /* FileReaderError.swift in Sources */,
+				923873892C5BAA37005FF5C1 /* LaunchScreenView.swift in Sources */,
+				923873982C5BAB08005FF5C1 /* StatisticsSheetView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -287,9 +467,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.cargo.CarGoSwiftUI;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -316,9 +499,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.cargo.CarGoSwiftUI;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
